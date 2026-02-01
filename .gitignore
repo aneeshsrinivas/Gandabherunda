@@ -1,0 +1,62 @@
+# Dependencies
+node_modules/
+.expo/
+.expo-shared/
+
+# Build outputs
+*.log
+*.tgz
+dist/
+build/
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Expo
+.expo/
+.expo-shared/
+web-build/
+
+# React Native
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Misc
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sensitive paths (DO NOT COMMIT)
+Users/
+C:/Users/
+c:/Users/
+/Users/
+Desktop/
+Downloads/
+OneDrive/
+*.jar
+target/
+
+# Firebase
+google-services.json
+GoogleService-Info.plist
